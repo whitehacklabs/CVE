@@ -2,4 +2,9 @@
 go1.21.1.linux-amd64.tar.gz
 go.sum
 go.mod
+success.txt
 
+path_traversal/CVE-2024-48914/package-lock.json
+path_traversal/CVE-2023-1177/.env
+path_traversal/CVE-2024-48914/package.json
+.gitignore
